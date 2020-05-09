@@ -1,0 +1,309 @@
+
+/* Class = "UILabel"; text = "Tamaño:"; ObjectID = "0N4-2y-qC2"; */
+"0N4-2y-qC2.text" = "Tamaño:";
+
+/* Class = "UILabel"; text = "Nombre de Cliente"; ObjectID = "0PE-e6-a13"; */
+"0PE-e6-a13.text" = "Nombre de Cliente";
+
+/* Class = "UILabel"; text = "Mosarella"; ObjectID = "0ar-BT-FHp"; */
+"0ar-BT-FHp.text" = "Mosarella";
+
+/* Class = "UILabel"; text = "Pequeña ($6.99)"; ObjectID = "1P9-AH-xy0"; */
+"1P9-AH-xy0.text" = "Pequeña ($6.99)";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "1Tg-G6-7la"; */
+"1Tg-G6-7la.text" = "$";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1gV-li-iXs"; */
+"1gV-li-iXs.text" = "Label";
+
+/* Class = "UILabel"; text = "Masa"; ObjectID = "23B-JW-1eI"; */
+"23B-JW-1eI.text" = "Masa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "30I-jV-mNq"; */
+"30I-jV-mNq.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "3UH-tK-6Yd"; */
+"3UH-tK-6Yd.text" = "Total";
+
+/* Class = "UILabel"; text = "Tamaño"; ObjectID = "3hK-bl-7GO"; */
+"3hK-bl-7GO.text" = "Tamaño";
+
+/* Class = "UILabel"; text = "Nombre de quien ordena la pizza"; ObjectID = "4QE-QH-kG5"; */
+"4QE-QH-kG5.text" = "Nombre de quien ordena la pizza";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4ms-T2-PcK"; */
+"4ms-T2-PcK.text" = "Label";
+
+/* Class = "UILabel"; text = "Quesos"; ObjectID = "6HP-jE-OlN"; */
+"6HP-jE-OlN.text" = "Quesos";
+
+/* Class = "UILabel"; text = "Pavo"; ObjectID = "8O0-yH-T76"; */
+"8O0-yH-T76.text" = "Pavo";
+
+/* Class = "UILabel"; text = "Prepara la pizza con las opciones a continuación"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "Prepara la pizza con las opciones a continuación";
+
+/* Class = "UILabel"; text = "Aceituna"; ObjectID = "ADV-tS-uMh"; */
+"ADV-tS-uMh.text" = "Aceituna";
+
+/* Class = "UITabBarItem"; title = "Confirmación"; ObjectID = "BBA-Zo-gI7"; */
+"BBA-Zo-gI7.title" = "Confirmación";
+
+/* Class = "UILabel"; text = "Crujiente($0.15)"; ObjectID = "C5k-DM-nYn"; */
+"C5k-DM-nYn.text" = "Crujiente($0.15)";
+
+/* Class = "UILabel"; text = "Tipo de queso"; ObjectID = "CZd-MI-At8"; */
+"CZd-MI-At8.text" = "Tipo de queso";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "DoP-II-iVo"; */
+"DoP-II-iVo.text" = "$";
+
+/* Class = "UILabel"; text = "Sin queso"; ObjectID = "EXS-fb-nQx"; */
+"EXS-fb-nQx.text" = "Sin queso";
+
+/* Class = "UILabel"; text = "Confirmación"; ObjectID = "FM0-hx-peb"; */
+"FM0-hx-peb.text" = "Confirmación";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "G0Y-an-BOg"; */
+"G0Y-an-BOg.text" = "$";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "HUs-7F-Qat"; */
+"HUs-7F-Qat.text" = "$";
+
+/* Class = "UILabel"; text = "Jamón "; ObjectID = "IDp-RW-Kem"; */
+"IDp-RW-Kem.text" = "Jamón ";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "IYz-10-Vco"; */
+"IYz-10-Vco.text" = "$";
+
+/* Class = "UILabel"; text = "Precio"; ObjectID = "IpR-eH-o3g"; */
+"IpR-eH-o3g.text" = "Precio";
+
+/* Class = "UILabel"; text = "Detalles de la Orden"; ObjectID = "Jqa-F6-tMA"; */
+"Jqa-F6-tMA.text" = "Detalles de la Orden";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K3Q-8Q-9j6"; */
+"K3Q-8Q-9j6.text" = "Label";
+
+/* Class = "UILabel"; text = "Pizzería a la carta"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "Pizzería a la carta";
+
+/* Class = "UITabBarItem"; title = "Tipo de queso"; ObjectID = "LNF-Ue-d0w"; */
+"LNF-Ue-d0w.title" = "Tipo de queso";
+
+/* Class = "UILabel"; text = "Grande ($12.99)"; ObjectID = "LmZ-qV-kqs"; */
+"LmZ-qV-kqs.text" = "Grande ($12.99)";
+
+/* Class = "UILabel"; text = "Su orden está correcta?"; ObjectID = "Lwl-L9-dSK"; */
+"Lwl-L9-dSK.text" = "Su orden está correcta?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MDM-EU-Snq"; */
+"MDM-EU-Snq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MJf-ta-47O"; */
+"MJf-ta-47O.text" = "Label";
+
+/* Class = "UILabel"; text = "Impuesto Estatal 10.5% + Impuesto municipal 0.5% = 11.0%"; ObjectID = "Mg5-4R-co9"; */
+"Mg5-4R-co9.text" = "Impuesto Estatal 10.5% + Impuesto municipal 0.5% = 11.0%";
+
+/* Class = "UILabel"; text = "Escoje entre tamaño regular, mediana o grande"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Escoje entre tamaño regular, mediana o grande";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nkk-WT-faw"; */
+"Nkk-WT-faw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbk-vx-O5A"; */
+"Qbk-vx-O5A.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QiA-9m-RFd"; */
+"QiA-9m-RFd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rcz-I2-4nh"; */
+"Rcz-I2-4nh.text" = "Label";
+
+/* Class = "UILabel"; text = "Masa:"; ObjectID = "SGV-rL-den"; */
+"SGV-rL-den.text" = "Masa:";
+
+/* Class = "UILabel"; text = "Escojer entre delgada, crujiente y gruesa"; ObjectID = "SZP-7m-i11"; */
+"SZP-7m-i11.text" = "Escojer entre delgada, crujiente y gruesa";
+
+/* Class = "UITabBarItem"; title = "Tipo de masa"; ObjectID = "Sa7-fw-rho"; */
+"Sa7-fw-rho.title" = "Tipo de masa";
+
+/* Class = "UILabel"; text = "Queso"; ObjectID = "U24-N9-O13"; */
+"U24-N9-O13.text" = "Queso";
+
+/* Class = "UIButton"; normalTitle = "Comenzar"; ObjectID = "U3z-wM-vNT"; */
+"U3z-wM-vNT.normalTitle" = "Comenzar";
+
+/* Class = "UILabel"; text = "Cheddar"; ObjectID = "USY-9P-Pde"; */
+"USY-9P-Pde.text" = "Cheddar";
+
+/* Class = "UILabel"; text = "Sin ingredientes"; ObjectID = "VMB-2n-n1w"; */
+"VMB-2n-n1w.text" = "Sin ingredientes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WAo-Xx-pxA"; */
+"WAo-Xx-pxA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Si"; ObjectID = "WHn-U2-Zu5"; */
+"WHn-U2-Zu5.normalTitle" = "Si";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "WUF-TI-zot"; */
+"WUF-TI-zot.text" = "$";
+
+/* Class = "UILabel"; text = "Presionar abajo las opciones.  "; ObjectID = "Wbs-6j-nrm"; */
+"Wbs-6j-nrm.text" = "Presionar abajo las opciones.  ";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "XiG-fi-LSE"; */
+"XiG-fi-LSE.text" = "Total";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "ZBI-rC-ZS5"; */
+"ZBI-rC-ZS5.text" = "test";
+
+/* Class = "UILabel"; text = "Gracias por su orden!!"; ObjectID = "a0b-r5-2aW"; */
+"a0b-r5-2aW.text" = "Gracias por su orden!!";
+
+/* Class = "UILabel"; text = "Ingredientes"; ObjectID = "aZS-Ml-pY2"; */
+"aZS-Ml-pY2.text" = "Ingredientes";
+
+/* Class = "UITabBarItem"; title = "Introducción"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Introducción";
+
+/* Class = "UILabel"; text = "ZuNatSeGre's Pizza"; ObjectID = "bQr-FI-cwP"; */
+"bQr-FI-cwP.text" = "ZuNatSeGre's Pizza";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "be3-MF-lmK"; */
+"be3-MF-lmK.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Gruesa($0.20)"; ObjectID = "bfS-ps-1t8"; */
+"bfS-ps-1t8.text" = "Gruesa($0.20)";
+
+/* Class = "UILabel"; text = "Piña"; ObjectID = "bjD-To-duJ"; */
+"bjD-To-duJ.text" = "Piña";
+
+/* Class = "UILabel"; text = "Su pizza la ha pedido de la siguiente manera:"; ObjectID = "bkp-n0-bFp"; */
+"bkp-n0-bFp.text" = "Su pizza la ha pedido de la siguiente manera:";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "bvE-v4-27o"; */
+"bvE-v4-27o.normalTitle" = "Continuar";
+
+/* Class = "UITabBarItem"; title = "Tamaño de la Pizza"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Tamaño de la Pizza";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "dk7-ez-7ov"; */
+"dk7-ez-7ov.text" = "$";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "f9k-hZ-QtO"; */
+"f9k-hZ-QtO.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "Chorizo"; ObjectID = "g7O-RR-LUx"; */
+"g7O-RR-LUx.text" = "Chorizo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gRA-cj-nLL"; */
+"gRA-cj-nLL.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Detalles de Orden"; ObjectID = "h0k-RC-lGp"; */
+"h0k-RC-lGp.title" = "Detalles de Orden";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "hLs-ir-QRA"; */
+"hLs-ir-QRA.text" = "test";
+
+/* Class = "UILabel"; text = "Precio"; ObjectID = "hZ3-7s-IE8"; */
+"hZ3-7s-IE8.text" = "Precio";
+
+/* Class = "UILabel"; text = "Seleccione entre jamón, pepperoni, pavo, salchicha, aceituna, cebolla, pimiento, piña, anchoa, chorizo o ninguno (Cada ingrediente añadido tendrá un costo de $0.40)"; ObjectID = "hla-os-XsZ"; */
+"hla-os-XsZ.text" = "Seleccione entre jamón, pepperoni, pavo, salchicha, aceituna, cebolla, pimiento, piña, anchoa, chorizo o ninguno (Cada ingrediente añadido tendrá un costo de $0.40)";
+
+/* Class = "UILabel"; text = "Masa"; ObjectID = "htt-PZ-fqj"; */
+"htt-PZ-fqj.text" = "Masa";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "hve-Dp-OCC"; */
+"hve-Dp-OCC.text" = "test";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iSA-YK-3mG"; */
+"iSA-YK-3mG.text" = "Label";
+
+/* Class = "UILabel"; text = "Ingredientes"; ObjectID = "iUR-h4-4Fc"; */
+"iUR-h4-4Fc.text" = "Ingredientes";
+
+/* Class = "UITextField"; text = "Su nombre aquí"; ObjectID = "j6r-eR-uFs"; */
+"j6r-eR-uFs.text" = "Su nombre aquí";
+
+/* Class = "UILabel"; text = "Ingredientes"; ObjectID = "jFk-DO-bAC"; */
+"jFk-DO-bAC.text" = "Ingredientes";
+
+/* Class = "UILabel"; text = "Anchoa"; ObjectID = "jzx-3L-H5c"; */
+"jzx-3L-H5c.text" = "Anchoa";
+
+/* Class = "UILabel"; text = "Pimiento"; ObjectID = "kWC-wf-zak"; */
+"kWC-wf-zak.text" = "Pimiento";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kdu-Dx-GUa"; */
+"kdu-Dx-GUa.text" = "Label";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "l0k-sK-Pyq"; */
+"l0k-sK-Pyq.text" = "$";
+
+/* Class = "UILabel"; text = "test"; ObjectID = "m6D-af-6GF"; */
+"m6D-af-6GF.text" = "test";
+
+/* Class = "UILabel"; text = "Impuesto Total"; ObjectID = "mMN-xU-K80"; */
+"mMN-xU-K80.text" = "Impuesto Total";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "n61-hK-ybX"; */
+"n61-hK-ybX.text" = "$";
+
+/* Class = "UILabel"; text = "Salchicha"; ObjectID = "nCP-oL-miX"; */
+"nCP-oL-miX.text" = "Salchicha";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "noi-h4-anz"; */
+"noi-h4-anz.text" = "$";
+
+/* Class = "UILabel"; text = "Si desea queso, seleccione el tipo que desea. (Incluido en el costo de la masa)"; ObjectID = "oE0-aa-hPX"; */
+"oE0-aa-hPX.text" = "Si desea queso, seleccione el tipo que desea. (Incluido en el costo de la masa)";
+
+/* Class = "UILabel"; text = "Delgada ($0.00)"; ObjectID = "peb-sG-rpa"; */
+"peb-sG-rpa.text" = "Delgada ($0.00)";
+
+/* Class = "UILabel"; text = "Cebolla"; ObjectID = "qBS-De-11j"; */
+"qBS-De-11j.text" = "Cebolla";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qZ3-jl-Gpt"; */
+"qZ3-jl-Gpt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "qvM-BA-HEW"; */
+"qvM-BA-HEW.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "rTO-Eo-mFq"; */
+"rTO-Eo-mFq.text" = "$";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "sEB-Gf-zVK"; */
+"sEB-Gf-zVK.text" = "$";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "sI6-a6-2bl"; */
+"sI6-a6-2bl.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "Parmesano"; ObjectID = "w23-eU-bUP"; */
+"w23-eU-bUP.text" = "Parmesano";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "xC1-jN-zfc"; */
+"xC1-jN-zfc.text" = "Subtotal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xTM-Ye-zsu"; */
+"xTM-Ye-zsu.text" = "Label";
+
+/* Class = "UILabel"; text = "Pepperoni"; ObjectID = "yVo-fF-4xb"; */
+"yVo-fF-4xb.text" = "Pepperoni";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zBS-uB-62M"; */
+"zBS-uB-62M.text" = "Label";
+
+/* Class = "UILabel"; text = "Tamaño"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Tamaño";
+
+/* Class = "UITabBarItem"; title = "Ingredientes"; ObjectID = "zLD-0z-1Yp"; */
+"zLD-0z-1Yp.title" = "Ingredientes";
+
+/* Class = "UILabel"; text = "Mediana ($9.99)"; ObjectID = "zyY-At-o7f"; */
+"zyY-At-o7f.text" = "Mediana ($9.99)";
